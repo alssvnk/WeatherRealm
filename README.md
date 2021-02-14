@@ -3,7 +3,7 @@
 ## Screenshots
 ### App
 
-![image](https://user-images.githubusercontent.com/49952551/107879496-2d849b80-6eea-11eb-82ba-e11a9dbbbd4d.png)
+<img src="https://user-images.githubusercontent.com/49952551/107879496-2d849b80-6eea-11eb-82ba-e11a9dbbbd4d.png" width="200">
 
 ### Realm Data
 
